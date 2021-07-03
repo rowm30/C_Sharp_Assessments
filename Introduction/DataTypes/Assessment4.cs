@@ -8,6 +8,7 @@ namespace DataTypes
         {
             string givenString = Console.ReadLine();
             System.Console.WriteLine("The word in lower case: " + givenString.ToLower());
+            
             System.Console.WriteLine("The word in upper case: " + givenString.ToUpper());
         }    
     }
