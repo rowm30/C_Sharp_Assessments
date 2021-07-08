@@ -1,6 +1,6 @@
 using System;
 
-namespace Datatypes{
+namespace Operators{
     public class Assessment6{
         public static void Main(string[] args)
         {
